@@ -8,105 +8,388 @@ block links
 
 block scripts
 	- var js = 'index.js';
-
-block header
-	include ../blocks/header.pug
-
 block content
-	.imgboxhide
-		.images_wedding_gallery_wrapper
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
-			.images_wedding_gallery_item
+	section.big_Container.main
+		.main_cont
+			.main_cont_swiper.swiper-container
+				.swiper-wrapper
+					.swiper-slide
+						.main_cont_swiper_item
+							.main_cont_swiper_item_text
+								h2 Высокоэластичный герметик 
+									span MasterSeal 440
+								p Для применения при отрицательной температуре до -10С
+							.main_cont_swiper_item_img
+								img(src="img/image 14.png" alt="mainslide")
+					.swiper-slide
+						.main_cont_swiper_item
+							.main_cont_swiper_item_text
+								h2 Новый химический анкер 
+									span MASTERFLOW 920 ANW
+								p Для применения при отрицательной температуре до -10С
+							.main_cont_swiper_item_img
+								img(src="img/Group 11.png" alt="mainslide")
+					.swiper-slide
+						.main_cont_swiper_item
+							.main_cont_swiper_item_text
+								h2 Официальный представитель 
+									span FEstool и ЗУБР
+								p Для применения при отрицательной температуре до -10С
+							.main_cont_swiper_item_img.img3
+								img(src="img/2 1.png" alt="mainslide")
+				.swiper-pagination.swiper-pagination-main
+	section.big_Container.catalog
+		.catalog_cont
+			button.slideprev
+				include ../../img/arrowprevslide.svg
+			.catalog_cont_slider.swiper-container
+				.swiper-wrapper
+					.swiper-slide
+						.catalog_cont_slider_item
+							.catalog_cont_slider_item_img
+								img(src="img/catalogimg.png" alt="catalogimg")
+							.catalog_cont_slider_item_text
+								h4 Восстановление и защита бетонных сооружений
+								p Современные материалы и технологии, представленные в данном разделе, позволят значительно повысить срок службы железобетонных сооружений, а также снизить эксплуатационные расходы.
+								a
+									include ../../img/arrowleft.svg
+									|Перейти в каталог
+					.swiper-slide
+						.catalog_cont_slider_item
+							.catalog_cont_slider_item_img
+								img(src="img/catalogimg2.png" alt="catalogimg")
+							.catalog_cont_slider_item_text
+								h4 Промышленные полы
+								p Условия эксплуатации полов в промышленных помещениях налагают особые требования к их стойкости и другим качествам. Предпочтительные свойства зависят от типа помещения: для складов пол, устойчивый...
+								a
+									include ../../img/arrowleft.svg
+									|Перейти в каталог
+			button.slidenext
+				include ../../img/arrownextlide.svg
+	section.big_Container.services
+		.services_cont
+			.swiper-container.services_cont_slider
+				.swiper-wrapper
+					.swiper-slide
+						.services_cont_slider_item
+							include ../../img/serviceicon.svg
+							h4 Консультация
+							p Вы можете проконсультироваться со специалистом Компании по поводу стоящихперед вами задач.
+							a Подробнее
+								include ../../img/arrowright.svg
+					.swiper-slide
+						.services_cont_slider_item
+							include ../../img/serviceicon1.svg
+							h4 Помощь в проектировании
+							p По вашей заявке мы напишем регламент на проведение работ.
+							a Подробнее
+								include ../../img/arrowright.svg
+					.swiper-slide
+						.services_cont_slider_item
+							include ../../img/serviceicon2.svg
+							h4 Расчет состава бетона
+							p Технологи компании помогут спроектировать состав бетона на сырьевых материалах
+							a Подробнее
+								include ../../img/arrowright.svg
+					.swiper-slide
+						.services_cont_slider_item
+							include ../../img/serviceicon3.svg
+							h4 Техническая поддержка на объекте
+							p Качество проведенных работ неразрывно связано как с качеством материалов, так и с качеством выполненных работ
+							a Подробнее
+								include ../../img/arrowright.svg
+					.swiper-slide
+						.services_cont_slider_item
+							include ../../img/serviceicon4.svg
+							h4 Обследование конструкций и сооружений
+							p Специалисты Компании выедут на объект для оценки состояния сооружений и выбора вариантов решения проблем.
+							a Подробнее
+								include ../../img/arrowright.svg
+					.swiper-slide
+						.services_cont_slider_item
+							include ../../img/serviceicon5.svg
+							h4 Разработка технической документации
+							p Для специалистов проектных институтов или сотрудников ПТО мы предлагаем услугу по разработке чертежей, узлов.
+							a Подробнее
+								include ../../img/arrowright.svg
+			.swiper-pagination.swiper-pagination-services
+	section.big_Container.forms
+		.forms_cont
+			.forms_cont_tabs
+				button(value="0").formstabbtn.active Помощь в подборе
+				button(value="1").formstabbtn Описание
+				button(value="2").formstabbtn Доставка и оплата
+				button(value="3").formstabbtn Обмен/возврат
+				button(value="4").formstabbtn Отзывы
+			.forms_cont_box
+				.forms_cont_box_item
+					button.forms_cont_box_item_btn Помощь в подборе
+						include ../../img/arrowdown.svg
+					.forms_cont_box_item_hide
+						.forms_cont_box_item_title
+							h4 Подберем анкер по фотографиям!
+							p Отправьте сообщение с фотографией интерьера по email:
+							a info@bla-bla.ru
+						form.forms_cont_box_item_form
+							h3 Загрузить фотографии на сайт прямо сейчас:
+							.forms_cont_box_item_form_inputs
+								label 
+									p Ваше имя
+										span *
+									input(type="text" placeholder="")
+								label 
+									p Телефон
+										span *
+									input(type="text" placeholder="")
+								label 
+									p E-mail
+										span *
+									input(type="text" placeholder="")
+							.forms_cont_box_item_form_photo
+								p Загрузить фотографии
+								.forms_cont_box_item_form_photo_flex
+									.forms_cont_box_item_form_photo_flex_item
+										p photo-v-interiere.jpg
+										button
+											include ../../img/remove.svg
+									.forms_cont_box_item_form_photo_flex_item
+										p photo.jpg
+										button
+											include ../../img/remove.svg
+									.forms_cont_box_item_form_photo_flex_item
+										p photo-v-interiere-2010.jpg
+										button
+											include ../../img/remove.svg
+								.forms_cont_box_item_form_photo_add
+									label Выбрать фотографии
+										input(type="file")
+									p Вы можете загрузить 5 изображений в формате JPG, JPEG, PNG. Размер каждой фотографии не должен превышать 2 Мбайт.
+							label.sendformbtn
+								input(type="submit" value="отправить")
+				.forms_cont_box_item
+					button.forms_cont_box_item_btn Описание
+						include ../../img/arrowdown.svg
+					.forms_cont_box_item_hide
+						.forms_cont_box_item_title
+							h4 Подберем анкер по фотографиям!
+							p Отправьте сообщение с фотографией интерьера по email:
+							a info@bla-bla.ru
+						form.forms_cont_box_item_form
+							h3 Загрузить фотографии на сайт прямо сейчас:
+							.forms_cont_box_item_form_inputs
+								label 
+									p Ваше имя
+										span *
+									input(type="text" placeholder="")
+								label 
+									p Телефон
+										span *
+									input(type="text" placeholder="")
+								label 
+									p E-mail
+										span *
+									input(type="text" placeholder="")
+							.forms_cont_box_item_form_photo
+								p Загрузить фотографии
+								.forms_cont_box_item_form_photo_flex
+									.forms_cont_box_item_form_photo_flex_item
+										p photo-v-interiere.jpg
+										button
+											include ../../img/remove.svg
+									.forms_cont_box_item_form_photo_flex_item
+										p photo.jpg
+										button
+											include ../../img/remove.svg
+									.forms_cont_box_item_form_photo_flex_item
+										p photo-v-interiere-2010.jpg
+										button
+											include ../../img/remove.svg
+								.forms_cont_box_item_form_photo_add
+									label Выбрать фотографии
+										input(type="file")
+									p Вы можете загрузить 5 изображений в формате JPG, JPEG, PNG. Размер каждой фотографии не должен превышать 2 Мбайт.
+							label.sendformbtn
+								input(type="submit" value="отправить")
+				.forms_cont_box_item
+					button.forms_cont_box_item_btn Доставка и оплата
+						include ../../img/arrowdown.svg
+					.forms_cont_box_item_hide
+						.forms_cont_box_item_title
+							h4 Подберем анкер по фотографиям!
+							p Отправьте сообщение с фотографией интерьера по email:
+							a info@bla-bla.ru
+						form.forms_cont_box_item_form
+							h3 Загрузить фотографии на сайт прямо сейчас:
+							.forms_cont_box_item_form_inputs
+								label 
+									p Ваше имя
+										span *
+									input(type="text" placeholder="")
+								label 
+									p Телефон
+										span *
+									input(type="text" placeholder="")
+								label 
+									p E-mail
+										span *
+									input(type="text" placeholder="")
+							.forms_cont_box_item_form_photo
+								p Загрузить фотографии
+								.forms_cont_box_item_form_photo_flex
+									.forms_cont_box_item_form_photo_flex_item
+										p photo-v-interiere.jpg
+										button
+											include ../../img/remove.svg
+									.forms_cont_box_item_form_photo_flex_item
+										p photo.jpg
+										button
+											include ../../img/remove.svg
+									.forms_cont_box_item_form_photo_flex_item
+										p photo-v-interiere-2010.jpg
+										button
+											include ../../img/remove.svg
+								.forms_cont_box_item_form_photo_add
+									label Выбрать фотографии
+										input(type="file")
+									p Вы можете загрузить 5 изображений в формате JPG, JPEG, PNG. Размер каждой фотографии не должен превышать 2 Мбайт.
+							label.sendformbtn
+								input(type="submit" value="отправить")
+				.forms_cont_box_item
+					button.forms_cont_box_item_btn Обмен/возврат
+						include ../../img/arrowdown.svg
+					.forms_cont_box_item_hide
+						.forms_cont_box_item_title
+							h4 Подберем анкер по фотографиям!
+							p Отправьте сообщение с фотографией интерьера по email:
+							a info@bla-bla.ru
+						form.forms_cont_box_item_form
+							h3 Загрузить фотографии на сайт прямо сейчас:
+							.forms_cont_box_item_form_inputs
+								label 
+									p Ваше имя
+										span *
+									input(type="text" placeholder="")
+								label 
+									p Телефон
+										span *
+									input(type="text" placeholder="")
+								label 
+									p E-mail
+										span *
+									input(type="text" placeholder="")
+							.forms_cont_box_item_form_photo
+								p Загрузить фотографии
+								.forms_cont_box_item_form_photo_flex
+									.forms_cont_box_item_form_photo_flex_item
+										p photo-v-interiere.jpg
+										button
+											include ../../img/remove.svg
+									.forms_cont_box_item_form_photo_flex_item
+										p photo.jpg
+										button
+											include ../../img/remove.svg
+									.forms_cont_box_item_form_photo_flex_item
+										p photo-v-interiere-2010.jpg
+										button
+											include ../../img/remove.svg
+								.forms_cont_box_item_form_photo_add
+									label Выбрать фотографии
+										input(type="file")
+									p Вы можете загрузить 5 изображений в формате JPG, JPEG, PNG. Размер каждой фотографии не должен превышать 2 Мбайт.
+							label.sendformbtn
+								input(type="submit" value="отправить")
+				.forms_cont_box_item
+					button.forms_cont_box_item_btn Отзывы
+						include ../../img/arrowdown.svg
+					.forms_cont_box_item_hide
+						.forms_cont_box_item_title
+							h4 Подберем анкер по фотографиям!
+							p Отправьте сообщение с фотографией интерьера по email:
+							a info@bla-bla.ru
+						form.forms_cont_box_item_form
+							h3 Загрузить фотографии на сайт прямо сейчас:
+							.forms_cont_box_item_form_inputs
+								label 
+									p Ваше имя
+										span *
+									input(type="text" placeholder="")
+								label 
+									p Телефон
+										span *
+									input(type="text" placeholder="")
+								label 
+									p E-mail
+										span *
+									input(type="text" placeholder="")
+							.forms_cont_box_item_form_photo
+								p Загрузить фотографии
+								.forms_cont_box_item_form_photo_flex
+									.forms_cont_box_item_form_photo_flex_item
+										p photo-v-interiere.jpg
+										button
+											include ../../img/remove.svg
+									.forms_cont_box_item_form_photo_flex_item
+										p photo.jpg
+										button
+											include ../../img/remove.svg
+									.forms_cont_box_item_form_photo_flex_item
+										p photo-v-interiere-2010.jpg
+										button
+											include ../../img/remove.svg
+								.forms_cont_box_item_form_photo_add
+									label Выбрать фотографии
+										input(type="file")
+									p Вы можете загрузить 5 изображений в формате JPG, JPEG, PNG. Размер каждой фотографии не должен превышать 2 Мбайт.
+							label.sendformbtn
+								input(type="submit" value="отправить")
+	section.big_Container.goodtoknow
+		.goodtoknow_cont
+			.goodtoknow_cont_title
+				h2 Полезно знать
+				.btn
+					button.slideprev2
+						include ../../img/slideprev2.svg
+					button.slidenext2
+						include ../../img/slidenext2.svg
+			.goodtoknow_cont_slide.swiper-container
+				.swiper-wrapper
+					.swiper-slide
+						.goodtoknow_cont_slide_item
+							img(src="img/Rectangle 38.png")
+							p Основы получения бетона с требуемыми свойствами
+					.swiper-slide
+						.goodtoknow_cont_slide_item
+							img(src="img/Rectangleasdasd 38.png")
+							p Как правильно сделать отмостку из бетона
+					.swiper-slide
+						.goodtoknow_cont_slide_item
+							img(src="img/casascvac.png")
+							p Состав и применение тощего бетона
+	section.big_Container.trademarks
+		.trademarks_cont
+			h2 Торговые марки
+			.trademarks_cont_slide.swiper-container
+				.swiper-wrapper
+					.swiper-slide
+						.trademarks_cont_slide_item
+							a MasterSeal 
+					.swiper-slide
+						.trademarks_cont_slide_item
+							a MasterSeal 
+					.swiper-slide
+						.trademarks_cont_slide_item
+							a MasterSeal 
+					.swiper-slide
+						.trademarks_cont_slide_item
+							a MasterSeal 
+					.swiper-slide
+						.trademarks_cont_slide_item
+							a MasterSeal 
+					.swiper-slide
+						.trademarks_cont_slide_item
+							a MasterSeal 
+			a.catalogbtn
+				include ../../img/arrowleft.svg
+				|Перейти в каталог
 block footer
 	include ../blocks/footer.pug
