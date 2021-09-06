@@ -1,10 +1,10 @@
-var swiper = new Swiper(".main_cont_swiper", {
-  slidesPerView: 'auto',
-  pagination: {
-    el: ".swiper-pagination-main",
-  },
-  loop:true
-});
+// var currentMousePos = 0
+// $( "body" ).mousemove(function(event) {
+//   currentMousePos.x = event.pageX;
+//   currentMousePos.y = event.pageY;
+//   console.log(event.pageX)
+// });
+
 var swiper = new Swiper(".catalog_cont_slider", {
   slidesPerView: 'auto',
   navigation: {
@@ -33,26 +33,14 @@ $(".formstabbtn").click(function(){
   $(".formstabbtn").removeClass("active")
   $(this).addClass("active")
 })
-if($(window).width()<694){
-  var swiper = new Swiper(".services_cont_slider", {
-    slidesPerView: 'auto',
-    pagination: {
-      el: ".swiper-pagination-services",
-    },
-    loop:true
-  });
-}
-$(window).resize(function(){
-  if($(window).width()<694){
-    var swiperas = new Swiper(".services_cont_slider", {
-      slidesPerView: 'auto',
-      pagination: {
-        el: ".swiper-pagination-services",
-      },
-      loop:true
-    });
-  }
-})
+
+var swiperas = new Swiper(".services_cont_slider1", {
+  slidesPerView: 1,
+  pagination: {
+    el: ".swiper-pagination-services",
+  },
+  loop:true
+});
 $(".forms_cont_box_item_btn").click(function(){
   $(this).toggleClass("activ");
   $(this).siblings(".forms_cont_box_item_hide").slideToggle(500)

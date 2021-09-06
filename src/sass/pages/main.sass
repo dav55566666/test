@@ -12,17 +12,20 @@ button
   border: unset
 .main
   padding: 0
+  display: none
   .main_cont
     max-width: 1920px
     width: 100%
     margin: 0 auto
     .main_cont_swiper
       width: 100%
-      max-width: 1264px
       margin: 0 auto
+      .swiper-wrapper
+        min-width: max-content
       .swiper-pagination
         padding-left: 80px
         width: 100%
+        max-width: 1265px
         left: 50%
         transform: translateX(-50%)
         display: flex
@@ -45,18 +48,62 @@ button
           height: 10px
           background: #FD7F36
           border-radius: 10px
+      .swiper-wrapper
+        display: flex
+        align-items: stretch
       .swiper-slide
+        max-width: 327px
+        height: auto
+        padding: 36px 37px
+        min-width: 327px
+        overflow: hidden
+        .main_cont_swiper_item
+          width: 100%
+          height: 100%
+          position: relative
+          display: flex
+          justify-content: flex-start
+          align-items: center
+          flex-direction: column-reverse
+          .main_cont_swiper_item_text
+            max-width: 585px
+            h2
+              font-family: Circe
+              font-style: normal
+              font-weight: normal
+              font-size: 16px
+              line-height: 24px
+              color: #747474
+              margin-top: 60px
+            p
+              display: none
+          .main_cont_swiper_item_img
+            max-width: 92px
+            width: 100%
+            height: 187px
+            img
+              object-fit: contain
+              height: 100%
+              width: 100%
+      .swiper-slide-prev,.swiper-slide-duplicate-prev
+        width: 100%!important
+        padding: 36px 37px
+      .swiper-slide-next,.swiper-slide-duplicate-next
+        width: 100%!important
+        padding: 36px 37px
+      .swiper-slide-active,.swiper-slide-duplicate-active
         padding: 21px 95px 36px
         padding-left: 80px
         max-width: 1264px
         background: #EFEFEF
-        width: 100%
+        width: 100%!important
         .main_cont_swiper_item
           width: 100%
           position: relative
           display: flex
           justify-content: space-between
           align-items: center
+          flex-direction: row
           .main_cont_swiper_item_text
             max-width: 585px
             width: 100%
@@ -76,6 +123,7 @@ button
               max-width: 409px
               font-family: Circe
               font-style: normal
+              display: block
               font-weight: normal
               font-size: 20px
               line-height: 28px
@@ -91,6 +139,7 @@ button
               width: 100%
 .catalog
   padding: 0 40px 80px
+  overflow: hidden
   .catalog_cont
     max-width: 1364px
     width: 100%
@@ -103,8 +152,12 @@ button
       margin: 0
       background: unset
       border: unset
+      position: relative
+      z-index: 555
       svg
     .catalog_cont_slider
+      overflow: unset
+      max-width: 1265px
       .swiper-slide
         max-width: 632px
         width: 100%
@@ -217,6 +270,8 @@ button
               svg
                 margin-left: 11px
                 margin-bottom: 0
+    .services_cont_slider1
+      display: none
     .swiper-pagination-services
       padding-left: 80px
       width: 100%
@@ -891,13 +946,15 @@ button
                 font-size: 14px
                 line-height: 20px
               a
-                left: -98px
+                left: -62px
                 bottom: 17px
                 font-size: 14px
                 line-height: 21px
                 svg
                   margin-right: 26px
-                  width: 117px
+                  width: 80px
+                  height: 15px
+                  object-fit: cover
   .services
     padding: 0 20px 62px
     position: relative
@@ -905,6 +962,7 @@ button
       max-width: 1264px
 
       .services_cont_slider
+        display: none
         .swiper-wrapper
           display: flex
           align-items: stretch
@@ -912,7 +970,7 @@ button
             max-width: 262px
             width: 100%
             .services_cont_slider_item
-              padding: 34px 20px 64px
+              padding: 60px 20px 76px
               height: 100%
               svg
                 margin: 0 auto 24px
@@ -935,6 +993,8 @@ button
                   margin-left: 11px
                   width: 6px
                   height: 9px
+      .services_cont_slider1
+        display: block
       .swiper-pagination-services
         padding-left: 40px
         left: 50%
