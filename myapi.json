@@ -1,16 +1,1 @@
-{
-  "car": [{
-       "carname": "Hyundai Sonata ВМ 1753 СР",
-       "carname": "Hyundai Sonata ВМ 1753 СР1",
-       "carname": "Hyundai Sonata ВМ 1753 СР2",
-       "carname": "Hyundai Sonata ВМ 1753 СР3",
-       "carname": "Hyundai Sonata ВМ 1753 СР4",
-       "carname": "Hyundai Sonata ВМ 1753 СР5",
-       "carname": "Hyundai Sonata ВМ 1753 СР6",
-       "carname": "Hyundai Sonata ВМ 1753 СР7",
-       "carname": "Hyundai Sonata ВМ 1753 СР8",
-       "carname": "Hyundai Sonata ВМ 1753 СР9",
-       "carname": "Hyundai Sonata ВМ 1753 СР10",
-       "carname": "Hyundai Sonata ВМ 1753 СР11"
-  }]
-}
+posts = ["Hyundai Sonata ВМ 1753 СР", "Hyundai Sonata ВМ 1753 СР1", "Hyundai Sonata ВМ 1753 СР2", "Hyundai Sonata ВМ 1753 СР3", "Hyundai Sonata ВМ 1753 СР4", "Hyundai Sonata ВМ 1753 СР5", "Hyundai Sonata ВМ 1753 СР6", "Hyundai Sonata ВМ 1753 СР7", "Hyundai Sonata ВМ 1753 СР8", "Hyundai Sonata ВМ 1753 СР9", "Hyundai Sonata ВМ 1753 СР10", "Hyundai Sonata ВМ 1753 СР11"]
