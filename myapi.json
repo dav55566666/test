@@ -1,82 +1,109 @@
 {
-    "carash": {
-        "crashname": "Левое крыло",
-        "crashinfo": "Порван чехол на заднем сидении салона",
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}
-    },
-    "carash": {
-        "crashname": "Правое крыло",
-        "crashinfo": "Порван чехол на заднем сидении салона",
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}
-    },
-    "carash": {
-        "crashname": "Багажник",
-        "crashinfo": "Порван чехол на заднем сидении салона",
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}
-    },
-    "carash": {
-        "crashname": "Левое крыло",
-        "crashinfo": "Порван чехол на заднем сидении салона",
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}
-    },
-    "carash": {
-        "crashname": "Багажник",
-        "crashinfo": "Порван чехол на заднем сидении салона",
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}
-    },
-    "carash": {
-        "crashname": "Левое крыло",
-        "crashinfo": "Порван чехол на заднем сидении салона",
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}
-    },
-    "carash": {
-        "crashname": "Багажник",
-        "crashinfo": "Порван чехол на заднем сидении салона",
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}
-    },
-    "carash": {
-        "crashname": "Правое крыло",
-        "crashinfo": "Порван чехол на заднем сидении салона",
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"},
-        "crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}
-    }
+    "car":[
+        {"carash": {
+            "crashname": "Левое крыло",
+            "crashinfo": "Порван чехол на заднем сидении салона",
+            "img":[
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}}
+                ]
+            }
+        },
+        {"carash": {
+            "crashname": "Правое крыло",
+            "crashinfo": "Порван чехол на заднем сидении салона",
+            "img":[
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}}
+                ]
+            }
+        },
+        {"carash": {
+            "crashname": "Багажник",
+            "crashinfo": "Порван чехол на заднем сидении салона",
+            "img":[
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}}
+                ]
+            }
+        },
+        {"carash": {
+            "crashname": "Левое крыло",
+            "crashinfo": "Порван чехол на заднем сидении салона",
+            "img":[
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}}
+                ]
+            }
+        },
+        {"carash": {
+            "crashname": "Багажник",
+            "crashinfo": "Порван чехол на заднем сидении салона",
+            "img":[
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}}
+                ]
+            }
+        },
+        {"carash": {
+            "crashname": "Правое крыло",
+            "crashinfo": "Порван чехол на заднем сидении салона",
+            "img":[
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}}
+                ]
+            }
+        },
+        {"carash": {
+            "crashname": "Левое крыло",
+            "crashinfo": "Порван чехол на заднем сидении салона",
+            "img":[
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}},
+                    {"crashimg": {"img":  "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"}}
+                ]
+            }
+        }
+    ]
 }
