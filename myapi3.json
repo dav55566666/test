@@ -5,17 +5,17 @@
     "workparametr": "Аренда посуточная 1300р/день",
     "days": "17 дней",
     "price": "22 100 р.",
-    "oil": "",
-    "probeg": "",
-    "bodycleanliness": "",
-    "interiorcleanliness": "",
-    "wheels": "",
-    "wheels2": "",
-    "tread": "",
-    "tread2": "",
-    "additionalnotes": "",
-    "violations": "",
-    "fine": ""
+    "oil": "8 литров",
+    "probeg": "158 000 км",
+    "bodycleanliness": "Чистый",
+    "interiorcleanliness": "Грязный",
+    "wheels": "245/50 r20 nokian hakkapeliitta r3 suv 106r xl ",
+    "wheels2": "245/50 r20 nokian hakkapeliitta r3 suv 106r xl ",
+    "tread": "4мм",
+    "tread2": "4мм",
+    "additionalnotes": "Порван чехол на заднем сидении салона",
+    "violations": "Отсутствуют: запасное колесо, катализатор, зарядное устройство Повреждён чехол заднего сидения Грязный салон",
+    "fine": "15 000р"
   },
   "car":[
     {"carash": {
