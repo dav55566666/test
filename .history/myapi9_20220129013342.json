@@ -2,44 +2,37 @@
   "car":[
     {"equip": {
             "equipname": "Свидетельство о регистрации",
-            "equipprice": "5000",
-            "id": "equip"
+            "equipprice": "5000"
         }
     },
     {"equip": {
         "equipname": "Свидетельство о регистрации",
-        "equipprice": "5000",
-        "id": "equip"
+        "equipprice": "5000"
         }
     },
     {"equip": {
         "equipname": "Свидетельство о регистрации",
-        "equipprice": "5000",
-        "id": "equip"
+        "equipprice": "5000"
         }
     },
     {"equip": {
         "equipname": "Свидетельство о регистрации",
-        "equipprice": "5000",
-        "id": "equip"
+        "equipprice": "5000"
         }
     },
     {"equip": {
         "equipname": "Свидетельство о регистрации",
-        "equipprice": "5000",
-        "id": "equip"
+        "equipprice": "5000"
         }
     },
     {"equip": {
         "equipname": "Свидетельство о регистрации",
-        "equipprice": "5000",
-        "id": "equip"
+        "equipprice": "5000"
         }
     },
     {"equip": {
         "equipname": "Свидетельство о регистрации",
-        "equipprice": "5000",
-        "id": "equip"
+        "equipprice": "5000"
         }
     }
   ]

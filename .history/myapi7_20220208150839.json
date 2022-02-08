@@ -1,0 +1,116 @@
+{
+  "car":[
+      {"carash": {
+          "crashname": "Левое крыло",
+          "crashinfo": "Порван чехол на заднем сидении салона",
+          "img":[
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"
+          ],
+          "id": "crashname"
+          }
+      },
+      {"carash": {
+          "crashname": "Правое крыло",
+          "crashinfo": "Порван чехол на заднем сидении салона",
+          "img":[
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"
+          ],
+          "id": "crashname"
+          }
+      },
+      {"carash": {
+          "crashname": "Багажник",
+          "crashinfo": "Порван чехол на заднем сидении салона",
+          "img":[
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"
+          ],
+          "id": "crashname"
+          }
+      },
+      {"carash": {
+          "crashname": "Левое крыло",
+          "crashinfo": "Порван чехол на заднем сидении салона",
+          "img":[
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"
+          ],
+          "id": "crashname"
+          }
+      },
+      {"carash": {
+          "crashname": "Багажник",
+          "crashinfo": "Порван чехол на заднем сидении салона",
+          "img":[
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"
+          ],
+          "id": "crashname"
+          }
+      },
+      {"carash": {
+          "crashname": "Правое крыло",
+          "crashinfo": "Порван чехол на заднем сидении салона",
+          "img":[
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"
+          ],
+          "id": "crashname"
+          }
+      },
+      {"carash": {
+          "crashname": "Левое крыло",
+          "crashinfo": "Порван чехол на заднем сидении салона",
+          "img":[
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg",
+              "https://raw.githubusercontent.com/dav55566666/test/master/Group1302.svg"
+          ],
+          "id": "crashname"
+          }
+      }
+  ]
+}
